@@ -65,3 +65,4 @@ Check out the [version for older SDKs](https://github.com/repat/mosf-older-sdks)
 # Fork
 
  * project structure migrated to AndroidStudio
+ * works on samsung galaxy nexus
