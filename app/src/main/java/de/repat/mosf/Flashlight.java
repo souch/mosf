@@ -83,6 +83,9 @@ public class Flashlight extends Activity implements SurfaceHolder.Callback {
                 }
             }
         });
+
+        // enable it at start
+        s.setChecked(true);
     }
 
 
